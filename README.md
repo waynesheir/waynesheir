@@ -5,3 +5,7 @@
 </p>
 
 <img src="https://i.postimg.cc/44LQWF8h/1785646248270.png" width="500">
+
+
+<p align="center"> $\color{#8A5336}{\textsf{𝐃𝐀𝐌𝐈𝐀𝐍 𝐖𝐀𝐘𝐍𝐄}}$
+<p align="center"> $\color{#8A5336}{\textsf{ᴏɴ ɢɪᴛʜᴜʙ}}$
