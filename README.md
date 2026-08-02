@@ -11,7 +11,7 @@
 
 <img src="https://i.postimg.cc/vmXtpQrv/1785651676757.png" width="500">
 
-<p align="center"> $\color{#8A5336}{\textsf{𝑛𝑜𝑡𝑒𝑠 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒:}}$
+<p align="center"> $\color{#8A5336}{\textsf{𝑁𝑂𝑇𝐸𝑆 𝐴𝐵𝑂𝑈𝑇 𝑀𝐸:}}$
 <p align="center"> $\color{#8A5336}{\textsf{ 𝐼 𝑑𝑜𝑛'𝑡 𝑎𝑐𝑐𝑒𝑝𝑡 𝑟𝑎𝑛𝑑𝑜𝑚 𝑓𝑟𝑖𝑒𝑛𝑑 𝑟𝑒𝑞𝑢𝑒𝑠𝑡𝑠.}}$
 <p align="center"> $\color{#8A5336}{\textsf{ 𝐼 𝑙𝑖𝑘𝑒 𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑡𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑝𝑒𝑜𝑝𝑙𝑒; 𝑦𝑜𝑢 𝑚𝑖𝑔ℎ𝑡 𝑓𝑖𝑛𝑑}}$ $\color{#8A5336}{\textsf{ 𝑚𝑒 𝑠𝑖𝑡𝑡𝑖𝑛𝑔 𝑛𝑒𝑥𝑡 𝑡𝑜 𝑦𝑜𝑢.}}$
 <p align="center"> $\color{#8A5336}{\textsf{𝐼'𝑚 𝑛𝑜𝑡 𝑜𝑛𝑙𝑖𝑛𝑒 𝑜𝑛 𝑡ℎ𝑒 𝑔𝑎𝑚𝑒 𝑣𝑒𝑟𝑦 𝑜𝑓𝑡𝑒𝑛.}}$
