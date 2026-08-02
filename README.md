@@ -17,7 +17,7 @@
 <td width="50%">
 
 <details>
-<summary>▶ ♡. about me</summary>
+<summary>▶ ♡. 𝐴𝑏𝑜𝑢𝑡 𝑀𝐸</summary>
 
 ```txt
 - 𝐼 𝑑𝑜𝑛'𝑡 𝑎𝑐𝑐𝑒𝑝𝑡 𝑟𝑎𝑛𝑑𝑜𝑚 𝑓𝑟𝑖𝑒𝑛𝑑 𝑟𝑒𝑞𝑢𝑒𝑠𝑡𝑠.
@@ -45,7 +45,7 @@
 <td width="50%">
 
 <details>
-<summary>▶ ♡. DNI !</summary>
+<summary>▶ ♡. 𝐷𝑁𝐼 !</summary>
 
 ```txtxt
 - 𝑝𝑒𝑜𝑝𝑙𝑒 𝑤ℎ𝑜 𝑡ℎ𝑖𝑛𝑘 𝑏𝑢𝑙𝑙𝑦𝑖𝑛𝑔 𝑖𝑠 "𝑗𝑢𝑠𝑡 𝑎 𝑗𝑜𝑘𝑒"
@@ -69,6 +69,25 @@
 
 TYSM FOR READING! 
 
+```
+
+</details>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<details>
+<summary>▶ ♡. 𝑆𝐻𝐼𝑃𝑆 !</summary>
+
+```txt
+𝑆𝐻𝐼𝑃𝑆! 𝐼 𝐷𝑂𝑁'𝑇 𝑀𝐼𝑁𝐷 𝑏𝑢𝑡 𝑖 𝑑𝑜𝑛'𝑡 𝑠ℎ𝑖𝑝 𝑎𝑛𝑦𝑡ℎ𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝐷𝑎𝑚𝑖𝑎𝑛 :)
 ```
 
 </details>
