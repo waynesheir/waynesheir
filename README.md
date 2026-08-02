@@ -17,7 +17,7 @@
 <p align="center"> $\color{#8A5336}{\textsf{𝐼'𝑚 𝑛𝑜𝑡 𝑜𝑛𝑙𝑖𝑛𝑒 𝑜𝑛 𝑡ℎ𝑒 𝑔𝑎𝑚𝑒 𝑣𝑒𝑟𝑦 𝑜𝑓𝑡𝑒𝑛.}}$
 <p align="center"> $\color{#8A5336}{\textsf{𝑆ℎ𝑖𝑝𝑠: 𝐼 𝑑𝑜𝑛'𝑡 𝑚𝑖𝑛𝑑, 𝑏𝑢𝑡 𝐼 𝑑𝑜𝑛'𝑡 𝑠ℎ𝑖𝑝 𝑎𝑛𝑦𝑡ℎ𝑖𝑛𝑔}}$ $\color{#8A5336}{\textsf{𝑤𝑖𝑡ℎ 𝐷𝑎𝑚𝑖𝑎𝑛. 𝐼 𝑓𝑒𝑒𝑙 𝑙𝑖𝑘𝑒 ℎ𝑒'𝑠 𝑏𝑒𝑡𝑡𝑒𝑟 𝑎𝑙𝑜𝑛𝑒.}}$
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A5336,100:8A5336&height=2&section=header"/>
+$\color{#8A5336}{\textsf{.}}$
 
 <p align="center"> $\color{#8A5336}{\textsf{𝐷𝑁𝐼:}}$
 
