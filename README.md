@@ -21,11 +21,9 @@
 
 <p align="center"> $\color{#8A5336}{\textsf{𝐷𝑁𝐼:}}$
 
+<p align="center"> $\color{#8A5336}{\textsf{𝐷𝑎𝑟𝑘𝑠ℎ𝑖𝑝𝑝𝑒𝑟𝑠. 𝑝𝑟𝑜𝑠ℎ𝑖𝑝𝑝𝑒𝑟𝑠. 𝑡𝑜𝑥𝑖𝑐 𝑝𝑝𝑙.}}$ $\color{#8A5336}{\textsf{ℎ𝑜𝑚𝑜𝑝ℎ𝑜𝑏𝑖𝑐 𝑝𝑝𝑙. 𝑟𝑢𝑑𝑒 𝑓𝑜𝑟 𝑛𝑜 𝑟𝑒𝑎𝑠𝑜𝑛.}}$ $\color{#8A5336}{\textsf{𝑢𝑛𝑑𝑒𝑟 14/𝑜𝑣𝑒𝑟 25 𝑢𝑛𝑙𝑒𝑠𝑠 𝑐𝑙𝑜𝑠𝑒 𝑓𝑟𝑖𝑒𝑛𝑑𝑠. 𝑟𝑎𝑐𝑖𝑠𝑡 𝑝𝑝𝑙. 𝑝𝑝𝑙 𝑤ℎ𝑜 𝑡ℎ𝑖𝑛𝑘 𝑡ℎ𝑒𝑦 𝑜𝑤𝑛 𝑚𝑒𝑑𝑖𝑎. [𝑡ℎ𝑎𝑡'𝑠 𝑖𝑡 𝑓𝑜𝑟 𝑛𝑜𝑤.]}}$
 
-
-
-
-
-<img src="https://i.postimg.cc/xCHBvNDz/In-Shot-20260802-074654576.png" width="450">
+  
+  <img src="https://i.postimg.cc/xCHBvNDz/In-Shot-20260802-postimg654576.png" width="450">
 
 <img src="https://i.postimg.cc/W1C95p7y/In-Shot-20260802-075140394.png" width="450">
