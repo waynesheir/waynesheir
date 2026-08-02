@@ -1,17 +1,16 @@
-<img src="https://i.postimg.cc/T1JhhPt5/1785647140016.png" width="450">
+<p align="center"> <img src="https://i.postimg.cc/T1JhhPt5/1785647140016.png" width="450">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=50&duration=3500&pause=1200&color=8A5336&center=true&vCenter=true&width=950&lines=I+wasn't+raised+to+lose.;%D8%A7%D9%84%D9%82%D9%88%D8%A9+%D9%84%D9%8A%D8%B3%D8%AA+%D8%AE%D9%8A%D8%A7%D8%B1%D9%8B%D8%A7...+%D8%A8%D9%84+%D8%A5%D8%B1%D8%AB.;Son+of+the+Bat.+Heir+to+the+Demon.;%D8%A7%D8%B3%D9%85+%D8%A7%D9%84%D8%BA%D9%88%D9%84+%D9%84%D8%A7+%D9%8A%D9%8F%D9%86%D8%B3%D9%89.;Discipline+before+emotion.;%D8%A7%D9%84%D8%B3%D9%8A%D9%81+%D9%84%D8%A7+%D9%8A%D8%AE%D8%B7%D8%A6+%D8%A5%D8%B0%D8%A7+%D8%AB%D8%A8%D8%AA%D8%AA+%D8%A7%D9%84%D9%8A%D8%AF.;Robin+by+choice.+al+Ghul+by+blood." />
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=50&duration=3500&pause=1200&color=8A5336&center=true&vCenter=true&width=950&lines=I+wasn't+raised+to+lose.;%D8%A7%D9%84%D9%82%D9%88%D8%A9+%D9%84%D9%8A%D8%B3%D8%AA+%D8%AE%D9%8A%D8%A7%D8%B1%D9%8B%D8%A7...+%D8%A8%D9%84+%D8%A5%D8%B1%D8%AB.;Son+of+the+Bat.+Heir+to+the+Demon.;%D8%A7%D8%B3%D9%85+%D8%A7%D9%84%D8%BA%D9%88%D9%84+%D9%84%D8%A7+%D9%8A%D9%8F%D9%86%D8%B3%D9%89.;Discipline+before+emotion.;%D8%A7%D9%84%D8%B3%D9%8A%D9%81+%D9%84%D8%A7+%D9%8A%D8%AE%D8%B7%D8%A6+%D8%A5%D8%B0%D8%A7+%D8%AB%D8%A8%D8%AA%D8%AA+%D8%A7%D9%84%D9%8A%D8%AF.;Robin+by+choice.+al+Ghul+by+blood." />
 </p>
 
-<img src="https://i.postimg.cc/44LQWF8h/1785646248270.png" width="500">
+<p align="center"> <img src="https://i.postimg.cc/44LQWF8h/1785646248270.png" width="500">
 
 <p align="center"> $\color{#8A5336}{\textsf{𝐃𝐀𝐌𝐈𝐀𝐍 𝐖𝐀𝐘𝐍𝐄}}$
 <p align="center"> $\color{#8A5336}{\textsf{ᴏɴ ɢɪᴛʜᴜʙ}}$
 
-<img src="https://i.postimg.cc/vmXtpQrv/1785651676757.png" width="500">
+<p align="center"> <img src="https://i.postimg.cc/vmXtpQrv/1785651676757.png" width="500">
 
-<table>
+<p align="center"> <table>
 <tr>
 
 <td width="50%">
@@ -101,10 +100,10 @@ TYSM FOR READING!
 $\color{#8A5336}{\textsf{.}}$
 
   
-  <img src="https://i.postimg.cc/xCHBvNDz/In-Shot-20260802-postimg654576.png" width="450">
+ <p align="center"> <img src="https://i.postimg.cc/xCHBvNDz/In-Shot-20260802-postimg654576.png" width="450">
 
 $\color{#8A5336}{\textsf{.}}$
 
-<img src="https://i.postimg.cc/wMrhHpkt/1785667489257.png" width="450">
+<p align="center"> <img src="https://i.postimg.cc/wMrhHpkt/1785667489257.png" width="450">
 
-<img src="https://i.postimg.cc/W1C95p7y/In-Shot-20260802-075140394.png" width="450">
+<p align="center"> <img src="https://i.postimg.cc/W1C95p7y/In-Shot-20260802-075140394.png" width="450">
