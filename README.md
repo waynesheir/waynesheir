@@ -8,7 +8,7 @@
 <p align="center"> $\color{#8A5336}{\textsf{𝐃𝐀𝐌𝐈𝐀𝐍 𝐖𝐀𝐘𝐍𝐄}}$
 <p align="center"> $\color{#8A5336}{\textsf{ᴏɴ ɢɪᴛʜᴜʙ}}$
 
-[**@ᴘᴛ-ᴡᴀʟᴋ-ᴏꜰ-ꜰᴀᴍᴇ**](https://github.com/pt-walk-of-fame)
+[**@ᴘᴛ-ᴡᴀʟᴋ-ᴏꜰ-ꜰᴀᴍᴇ**](https://github.com/pt-walk-of-fame) ⚔
 [**@ᴛɪᴛʟᴇ-ᴛᴏᴡɴ**](https://github.com/title-town)
 
 <p align="center"> <img src="https://i.postimg.cc/vmXtpQrv/1785651676757.png" width="500">
