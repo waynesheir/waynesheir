@@ -21,7 +21,7 @@
 <td width="50%">
 
 <details>
-<summary>▶ 𝒎𝒆 </summary>
+<summary>▶ 𝒎𝒆/𝒑𝒕 𝒊𝒏𝒇𝒐𝒔 </summary>
 
 
 𝐼 𝑑𝑜𝑛'𝑡 𝑎𝑐𝑐𝑒𝑝𝑡 𝑟𝑎𝑛𝑑𝑜𝑚 𝑓𝑟𝑖𝑒𝑛𝑑 𝑟𝑒𝑞𝑢𝑒𝑠𝑡𝑠.
