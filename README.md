@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.postimg.cc/FHDTV2S7/1787433675645.png" width="500">
+<p align="center"> <img src="https://i.postimg.cc/05YdCTRQ/1787433899774.png" width="500">
 
  [**@ᴘᴛ-ᴡᴀʟᴋ-ᴏꜰ-ꜰᴀᴍᴇ**](https://github.com/pt-walk-of-fame) ⚔
 [**@ᴛɪᴛʟᴇ-ᴛᴏᴡɴ**](https://github.com/title-town)
