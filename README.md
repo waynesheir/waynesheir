@@ -1,9 +1,9 @@
-<p align="center"> <img src="https://i.postimg.cc/05YdCTRQ/1787433899774.png" width="500">
+<p align="center"> <img src="https://i.postimg.cc/hvz4010d/1788440372645.png" width="500">
 
  [**@ᴘᴛ-ᴡᴀʟᴋ-ᴏꜰ-ꜰᴀᴍᴇ**](https://github.com/pt-walk-of-fame) ⚔
 [**@ᴛɪᴛʟᴇ-ᴛᴏᴡɴ**](https://github.com/title-town)
 
-<p align="center"> $\color{#8A5336}{\textsf{i asked and they added me yay ok}}$
+<p align="center"> $\color{#8A5336}{\textsf{Damian Wayne Of PT lowk}}$
 <p align="center"> <table>
 <tr>
 
