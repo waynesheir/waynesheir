@@ -16,7 +16,7 @@ you can call me Damian im more comfortable with it
 
 c+h/int anyone idc sometimes i hop on that game to have someone to chat w out of boredom 
 
-more like a Marvel Fan then DC but my partner got me into DC stuff- so fun
+16 years old.
 
 
 </details>
