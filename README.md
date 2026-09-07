@@ -3,7 +3,7 @@
  [**@ᴘᴛ-ᴡᴀʟᴋ-ᴏꜰ-ꜰᴀᴍᴇ**](https://github.com/pt-walk-of-fame) ⚔
 [**@ᴛɪᴛʟᴇ-ᴛᴏᴡɴ**](https://github.com/title-town)
 
-<p align="center"> $\color{#8A5336}{\textsf{Damian Wayne Of PT lowk}}$
+<p align="center"> $\color{#8A5336}{\textsf{yoo tysm}}$
 <p align="center"> <table>
 <tr>
 
