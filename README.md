@@ -3,7 +3,10 @@
  [**@ᴘᴛ-ᴡᴀʟᴋ-ᴏꜰ-ꜰᴀᴍᴇ**](https://github.com/pt-walk-of-fame) ⚔
 [**@ᴛɪᴛʟᴇ-ᴛᴏᴡɴ**](https://github.com/title-town)
 
-<p align="center"> $\color{#8A5336}{\textsf{yoo tysm}}$
+<p align="center"> $\color{#E4901A}{\textsf{yoo}}$
+$\color{#98A827}{\textsf{Tysm}}$
+
+
 <p align="center"> <table>
 <tr>
 
@@ -29,5 +32,6 @@ c+h/int anyone idc sometimes i hop on that game to have someone to chat w out of
 </table>
 
 <table>
-
-<p align="center"> <img src="https://i.postimg.cc/HkYk4yyH/In-Shot-20260912-002356307.png" width="500">
+ 
+<p align="center"> $\color{#98A827}{\textsf{Credit to the}}$ 
+$\color{#E4901A}{\textsf{artist @lealexiio}}$
